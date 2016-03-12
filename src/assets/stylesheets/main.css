@@ -1,0 +1,1373 @@
+#joc-el-preu .elt.elt-persona {
+  background: url(../img/elements/svgo/persona.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+.no-svg #joc-el-preu .elt.elt-persona {
+  background: url(../img/elements/png/persona.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+#joc-el-preu .elt.elt-politica {
+  background: url(../img/elements/svgo/politica.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+.no-svg #joc-el-preu .elt.elt-politica {
+  background: url(../img/elements/png/politica.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+#joc-el-preu .elt.elt-economia {
+  background: url(../img/elements/svgo/economia.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+.no-svg #joc-el-preu .elt.elt-economia {
+  background: url(../img/elements/png/economia.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+#joc-el-preu .elt.elt-terra {
+  background: url(../img/elements/svgo/terra.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5ab89e;
+}
+
+.no-svg #joc-el-preu .elt.elt-terra {
+  background: url(../img/elements/png/terra.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5ab89e;
+}
+
+#joc-el-preu .elt.elt-aigua {
+  background: url(../img/elements/svgo/aigua.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5cafb2;
+}
+
+.no-svg #joc-el-preu .elt.elt-aigua {
+  background: url(../img/elements/png/aigua.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5cafb2;
+}
+
+#joc-el-preu .elt.elt-minerals {
+  background: url(../img/elements/svgo/minerals.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #93b746;
+}
+
+.no-svg #joc-el-preu .elt.elt-minerals {
+  background: url(../img/elements/png/minerals.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #93b746;
+}
+
+#joc-el-preu .elt.elt-arbre {
+  background: url(../img/elements/svgo/arbre.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5ab89e;
+}
+
+.no-svg #joc-el-preu .elt.elt-arbre {
+  background: url(../img/elements/png/arbre.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5ab89e;
+}
+
+#joc-el-preu .elt.elt-animal {
+  background: url(../img/elements/svgo/animal.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #f096ac;
+}
+
+.no-svg #joc-el-preu .elt.elt-animal {
+  background: url(../img/elements/png/animal.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #f096ac;
+}
+
+#joc-el-preu .elt.elt-comunitat {
+  background: url(../img/elements/svgo/comunitat.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+.no-svg #joc-el-preu .elt.elt-comunitat {
+  background: url(../img/elements/png/comunitat.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+#joc-el-preu .elt.elt-politic {
+  background: url(../img/elements/svgo/politic.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+.no-svg #joc-el-preu .elt.elt-politic {
+  background: url(../img/elements/png/politic.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+#joc-el-preu .elt.elt-territori {
+  background: url(../img/elements/svgo/territori.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+.no-svg #joc-el-preu .elt.elt-territori {
+  background: url(../img/elements/png/territori.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+#joc-el-preu .elt.elt-mercat {
+  background: url(../img/elements/svgo/mercat.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+.no-svg #joc-el-preu .elt.elt-mercat {
+  background: url(../img/elements/png/mercat.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+#joc-el-preu .elt.elt-govern {
+  background: url(../img/elements/svgo/govern.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+.no-svg #joc-el-preu .elt.elt-govern {
+  background: url(../img/elements/png/govern.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+#joc-el-preu .elt.elt-estat {
+  background: url(../img/elements/svgo/estat.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+.no-svg #joc-el-preu .elt.elt-estat {
+  background: url(../img/elements/png/estat.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+#joc-el-preu .elt.elt-fronteres {
+  background: url(../img/elements/svgo/fronteres.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+.no-svg #joc-el-preu .elt.elt-fronteres {
+  background: url(../img/elements/png/fronteres.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+#joc-el-preu .elt.elt-pib {
+  background: url(../img/elements/svgo/pib.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+.no-svg #joc-el-preu .elt.elt-pib {
+  background: url(../img/elements/png/pib.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+#joc-el-preu .elt.elt-tlc {
+  background: url(../img/elements/svgo/tlc.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+.no-svg #joc-el-preu .elt.elt-tlc {
+  background: url(../img/elements/png/tlc.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+#joc-el-preu .elt.elt-empresa {
+  background: url(../img/elements/svgo/empresa.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+.no-svg #joc-el-preu .elt.elt-empresa {
+  background: url(../img/elements/png/empresa.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+#joc-el-preu .elt.elt-empresa_minera {
+  background: url(../img/elements/svgo/empresa_minera.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+.no-svg #joc-el-preu .elt.elt-empresa_minera {
+  background: url(../img/elements/png/empresa_minera.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+#joc-el-preu .elt.elt-miner {
+  background: url(../img/elements/svgo/miner.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #93b746;
+}
+
+.no-svg #joc-el-preu .elt.elt-miner {
+  background: url(../img/elements/png/miner.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #93b746;
+}
+
+#joc-el-preu .elt.elt-jaciment {
+  background: url(../img/elements/svgo/jaciment.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #93b746;
+}
+
+.no-svg #joc-el-preu .elt.elt-jaciment {
+  background: url(../img/elements/png/jaciment.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #93b746;
+}
+
+#joc-el-preu .elt.elt-fauna {
+  background: url(../img/elements/svgo/fauna.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #f096ac;
+}
+
+.no-svg #joc-el-preu .elt.elt-fauna {
+  background: url(../img/elements/png/fauna.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #f096ac;
+}
+
+#joc-el-preu .elt.elt-riu {
+  background: url(../img/elements/svgo/riu.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5cafb2;
+}
+
+.no-svg #joc-el-preu .elt.elt-riu {
+  background: url(../img/elements/png/riu.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5cafb2;
+}
+
+#joc-el-preu .elt.elt-bosc {
+  background: url(../img/elements/svgo/bosc.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5ab89e;
+}
+
+.no-svg #joc-el-preu .elt.elt-bosc {
+  background: url(../img/elements/png/bosc.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5ab89e;
+}
+
+#joc-el-preu .elt.elt-aquifer {
+  background: url(../img/elements/svgo/aquifer.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5cafb2;
+}
+
+.no-svg #joc-el-preu .elt.elt-aquifer {
+  background: url(../img/elements/png/aquifer.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5cafb2;
+}
+
+#joc-el-preu .elt.elt-interes_empresarial {
+  background: url(../img/elements/svgo/interes_empresarial.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+.no-svg #joc-el-preu .elt.elt-interes_empresarial {
+  background: url(../img/elements/png/interes_empresarial.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+#joc-el-preu .elt.elt-permis_dexplotacio {
+  background: url(../img/elements/svgo/permis_dexplotacio.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+.no-svg #joc-el-preu .elt.elt-permis_dexplotacio {
+  background: url(../img/elements/png/permis_dexplotacio.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+#joc-el-preu .elt.elt-corrupcio {
+  background: url(../img/elements/svgo/corrupcio.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+.no-svg #joc-el-preu .elt.elt-corrupcio {
+  background: url(../img/elements/png/corrupcio.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+#joc-el-preu .elt.elt-mina {
+  background: url(../img/elements/svgo/mina.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #93b746;
+}
+
+.no-svg #joc-el-preu .elt.elt-mina {
+  background: url(../img/elements/png/mina.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #93b746;
+}
+
+#joc-el-preu .elt.elt-deforestacio {
+  background: url(../img/elements/svgo/deforestacio.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5ab89e;
+}
+
+.no-svg #joc-el-preu .elt.elt-deforestacio {
+  background: url(../img/elements/png/deforestacio.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5ab89e;
+}
+
+#joc-el-preu .elt.elt-sequera {
+  background: url(../img/elements/svgo/sequera.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5cafb2;
+}
+
+.no-svg #joc-el-preu .elt.elt-sequera {
+  background: url(../img/elements/png/sequera.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #5cafb2;
+}
+
+#joc-el-preu .elt.elt-contaminacio {
+  background: url(../img/elements/svgo/contaminacio.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #d02243;
+}
+
+.no-svg #joc-el-preu .elt.elt-contaminacio {
+  background: url(../img/elements/png/contaminacio.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #d02243;
+}
+
+#joc-el-preu .elt.elt-desaparicio_despecies {
+  background: url(../img/elements/svgo/desaparicio_despecies.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #d02243;
+}
+
+.no-svg #joc-el-preu .elt.elt-desaparicio_despecies {
+  background: url(../img/elements/png/desaparicio_despecies.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #d02243;
+}
+
+#joc-el-preu .elt.elt-enverinament {
+  background: url(../img/elements/svgo/enverinament.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #d02243;
+}
+
+.no-svg #joc-el-preu .elt.elt-enverinament {
+  background: url(../img/elements/png/enverinament.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #d02243;
+}
+
+#joc-el-preu .elt.elt-malalties {
+  background: url(../img/elements/svgo/malalties.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #d02243;
+}
+
+.no-svg #joc-el-preu .elt.elt-malalties {
+  background: url(../img/elements/png/malalties.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #d02243;
+}
+
+#joc-el-preu .elt.elt-perdua_biodiversitat {
+  background: url(../img/elements/svgo/perdua_biodiversitat.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #d02243;
+}
+
+.no-svg #joc-el-preu .elt.elt-perdua_biodiversitat {
+  background: url(../img/elements/png/perdua_biodiversitat.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #d02243;
+}
+
+#joc-el-preu .elt.elt-impactes_ambientals {
+  background: url(../img/elements/svgo/impactes_ambientals.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: purple;
+}
+
+.no-svg #joc-el-preu .elt.elt-impactes_ambientals {
+  background: url(../img/elements/png/impactes_ambientals.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: purple;
+}
+
+#joc-el-preu .elt.elt-agricultura {
+  background: url(../img/elements/svgo/agricultura.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+.no-svg #joc-el-preu .elt.elt-agricultura {
+  background: url(../img/elements/png/agricultura.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+#joc-el-preu .elt.elt-ramaderia {
+  background: url(../img/elements/svgo/ramaderia.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+.no-svg #joc-el-preu .elt.elt-ramaderia {
+  background: url(../img/elements/png/ramaderia.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+#joc-el-preu .elt.elt-mitjans_subsistencia {
+  background: url(../img/elements/svgo/mitjans_subsistencia.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+.no-svg #joc-el-preu .elt.elt-mitjans_subsistencia {
+  background: url(../img/elements/png/mitjans_subsistencia.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+/* ELEMENTS DEL NIVELL 2 */
+
+#joc-el-preu .elt.elt-globalitzacio {
+  background: url(../img/elements/svgo/globalitzacio.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #1E90FF;
+}
+
+.no-svg #joc-el-preu .elt.elt-globalitzacio {
+  background: url(../img/elements/png/globalitzacio.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #1E90FF;
+}
+#joc-el-preu .elt.elt-exercit {
+  background: url(../img/elements/svgo/exercit.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #4B5320;
+}
+
+.no-svg #joc-el-preu .elt.elt-exercit {
+  background: url(../img/elements/png/exercit.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #4B5320;
+}
+
+#joc-el-preu .elt.elt-desplaçaments {
+  background: url(../img/elements/svgo/desplaçaments.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+.no-svg #joc-el-preu .elt.elt-desplaçaments {
+  background: url(../img/elements/png/desplaçaments.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+#joc-el-preu .elt.elt-desarrelament {
+  background: url(../img/elements/svgo/desarrelament.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+.no-svg #joc-el-preu .elt.elt-desarrelament {
+  background: url(../img/elements/png/desarrelament.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+#joc-el-preu .elt.elt-transnacional {
+  background: url(../img/elements/svgo/transnacional.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #1E90FF;
+}
+
+.no-svg #joc-el-preu .elt.elt-transnacional {
+  background: url(../img/elements/png/transnacional.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #1E90FF;
+}
+#joc-el-preu .elt.elt-espoli {
+  background: url(../img/elements/svgo/espoli.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #1E90FF;
+}
+
+.no-svg #joc-el-preu .elt.elt-espoli {
+  background: url(../img/elements/png/espoli.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #1E90FF;
+}
+
+#joc-el-preu .elt.elt-empobriment {
+  background: url(../img/elements/svgo/empobriment.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+.no-svg #joc-el-preu .elt.elt-empobriment {
+  background: url(../img/elements/png/empobriment.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+#joc-el-preu .elt.elt-lobby_de_poder {
+  background: url(../img/elements/svgo/lobby_de_poder.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #1E90FF;
+}
+
+.no-svg #joc-el-preu .elt.elt-lobby_de_poder {
+  background: url(../img/elements/png/lobby_de_poder.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #1E90FF;
+}
+
+#joc-el-preu .elt.elt-desigualtat_economica {
+  background: url(../img/elements/svgo/desigualtat_economica.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #1E90FF;
+}
+
+.no-svg #joc-el-preu .elt.elt-desigualtat_economica {
+  background: url(../img/elements/png/desigualtat_economica.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #1E90FF;
+}
+
+#joc-el-preu .elt.elt-precarietat_laboral {
+  background: url(../img/elements/svgo/precarietat_laboral.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+.no-svg #joc-el-preu .elt.elt-precarietat_laboral {
+  background: url(../img/elements/png/precarietat_laboral.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+#joc-el-preu .elt.elt-protesta_social {
+  background: url(../img/elements/svgo/protesta_social.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+.no-svg #joc-el-preu .elt.elt-protesta_social {
+  background: url(../img/elements/png/protesta_social.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+#joc-el-preu .elt.elt-criminalitzacio {
+  background: url(../img/elements/svgo/criminalitzacio.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+.no-svg #joc-el-preu .elt.elt-criminalitzacio {
+  background: url(../img/elements/png/criminalitzacio.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #694f7a;
+}
+
+#joc-el-preu .elt.elt-revolta_social {
+  background: url(../img/elements/svgo/revolta_social.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+.no-svg #joc-el-preu .elt.elt-revolta_social {
+  background: url(../img/elements/png/revolta_social.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+#joc-el-preu .elt.elt-conflictes_armats {
+  background: url(../img/elements/svgo/conflictes_armats.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #4B5320;
+}
+
+.no-svg #joc-el-preu .elt.elt-conflictes_armats {
+  background: url(../img/elements/png/conflictes_armats.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #4B5320;
+}
+
+#joc-el-preu .elt.elt-comerç_darmes {
+  background: url(../img/elements/svgo/comerç_darmes.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+.no-svg #joc-el-preu .elt.elt-comerç_darmes {
+  background: url(../img/elements/png/comerç_darmes.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #e62364;
+}
+
+#joc-el-preu .elt.elt-militaritzacio {
+  background: url(../img/elements/svgo/militaritzacio.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #4B5320;
+}
+
+.no-svg #joc-el-preu .elt.elt-militaritzacio {
+  background: url(../img/elements/png/militaritzacio.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #4B5320;
+}
+
+#joc-el-preu .elt.elt-seguretat_privada {
+  background: url(../img/elements/svgo/seguretat_privada.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #1E90FF;
+}
+
+.no-svg #joc-el-preu .elt.elt-seguretat_privada {
+  background: url(../img/elements/png/seguretat_privada.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #1E90FF;
+}
+
+#joc-el-preu .elt.elt-espionatge {
+  background: url(../img/elements/svgo/espionatge.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #1E90FF;
+}
+
+.no-svg #joc-el-preu .elt.elt-espionatge {
+  background: url(../img/elements/png/espionatge.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #1E90FF;
+}
+
+
+#joc-el-preu .elt.elt-violacio_DDHH {
+  background: url(../img/elements/svgo/violacio_DDHH.svg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+.no-svg #joc-el-preu .elt.elt-violacio_DDHH {
+  background: url(../img/elements/png/violacio_DDHH.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #2b8a79;
+}
+
+
+@font-face {
+  font-family: 'Comfortaa';
+  src: url("../fonts/comfortaa_bold-webfont.eot");
+  src: url("../fonts/comfortaa_bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/comfortaa_bold-webfont.woff") format("woff"), url("../fonts/comfortaa_bold-webfont.ttf") format("truetype"), url("../fonts/comfortaa_bold-webfont.svg#comfortaabold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Comfortaa';
+  src: url("../fonts/comfortaa_regular-webfont.eot");
+  src: url("../fonts/comfortaa_regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/comfortaa_regular-webfont.woff") format("woff"), url("../fonts/comfortaa_regular-webfont.ttf") format("truetype"), url("../fonts/comfortaa_regular-webfont.svg#comfortaaregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Comfortaa';
+  src: url("../fonts/comfortaa_thin-webfont.eot");
+  src: url("../fonts/comfortaa_thin-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/comfortaa_thin-webfont.woff") format("woff"), url("../fonts/comfortaa_thin-webfont.ttf") format("truetype"), url("../fonts/comfortaa_thin-webfont.svg#comfortaathin") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: white;
+  font-family: Comfortaa, Verdana, sans-serif;
+  overflow: hidden;
+  height: 100%;
+}
+
+#joc-el-preu {
+  height: 100%;
+}
+
+header {
+  text-align: center;
+  padding: 0.5em 0;
+}
+header h1 {
+  font-size: 1.3em;
+  margin: 0;
+  font-weight: normal;
+}
+
+#toggle-menu {
+  position: absolute;
+  left: 0.2em;
+  padding: 0 0.3em;
+  font-size: 1.5em;
+  line-height: 1;
+  text-decoration: none;
+  color: #333;
+}
+
+section {
+  position: relative;
+  clear: both;
+}
+
+.elts-grid {
+  overflow: hidden;
+}
+.elts-grid .elts-list {
+  list-style-type: none;
+  margin: 2px 8px;
+  padding-left: 0;
+  text-align: center;
+}
+.elts-grid .elt {
+  float: left;
+  width: 56px;
+  height: 56px;
+  line-height: 56px;
+  vertical-align: middle;
+  margin: 1px 1px;
+  overflow: hidden;
+  color: #eee;
+  background: #333;
+  text-indent: -119988px;
+  overflow: hidden;
+  text-align: left;
+}
+
+#elts-grid-one {
+  overflow: auto;
+  overflow-y: hidden;
+  margin-bottom: 2px;
+}
+#elts-grid-one .elts-list {
+  height: 66px;
+  min-width: 100%;
+  overflow: hidden;
+  text-align: left;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1%, #dddddd), color-stop(2%, transparent)), -webkit-gradient(linear, left center, right center, color-stop(1%, #dddddd), color-stop(2%, transparent));
+  background-image: -webkit-linear-gradient(#dddddd 2px, transparent 2px), -webkit-linear-gradient(0, #dddddd 2px, transparent 2px);
+  background-image: linear-gradient(#dddddd 2px, transparent 2px), linear-gradient(90deg, #dddddd 2px, transparent 2px);
+  background-size: 60px 60px, 60px 60px;
+  background-position: 0 0, -1px 0;
+}
+#elts-grid-one .elt {
+  float: left;
+  display: block;
+  text-align: center;
+  vertical-align: middle;
+  margin: 2px 1px;
+}
+
+#elts-grid-two {
+  height: 50%;
+  min-height: 168px;
+  background-color: #f2f2f2;
+  overflow: auto;
+  padding: 0.4em 0;
+}
+#elts-grid-two .elts-list {
+  padding-bottom: 1em;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1%, #cccccc), color-stop(2%, transparent)), -webkit-gradient(linear, left center, right center, color-stop(1%, #cccccc), color-stop(2%, transparent));
+  background-image: -webkit-linear-gradient(white 2px, transparent 2px), -webkit-linear-gradient(0, white 2px, transparent 2px);
+  background-image: linear-gradient(#ffffff 2px, transparent 2px), linear-gradient(90deg, #ffffff 2px, transparent 2px);
+  background-size: 59px 59px, 59px 59px;
+  background-position: 0 -1px, -1px 0;
+  min-height: 100%;
+}
+
+#mix-zone {
+  min-height: 112px;
+  padding: 10px 0 5px;
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background: white;
+  z-index: 5;
+}
+
+#first-ingredient, #second-ingredient {
+  background: url("../img/ingredient.svg");
+}
+
+#mix-result {
+  background: url("../img/result.svg");
+}
+
+.no-svg #first-ingredient, .no-svg #second-ingredient {
+  background: url("../img/ingredient.png");
+}
+.no-svg #mix-result {
+  background: url("../img/result.png");
+}
+
+#first-ingredient, #second-ingredient, #mix-result {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  background-size: contain;
+  -webkit-box-shadow: inset 0 0 10px #888888;
+  -moz-box-shadow: inset 0 0 10px #888888;
+  box-shadow: inset 0 0 10px #888888;
+  position: relative;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+#first-ingredient.selected, #second-ingredient.selected, #mix-result.selected {
+  -webkit-box-shadow: inset 0 0 10px #444444;
+  -moz-box-shadow: inset 0 0 10px #444444;
+  box-shadow: inset 0 0 10px #444444;
+}
+#first-ingredient .label, #second-ingredient .label, #mix-result .label {
+  position: absolute;
+  top: 104%;
+  left: -20%;
+  width: 84px;
+  min-height: 2.2em;
+}
+
+.mix-symbol {
+  line-height: 60px;
+  font-size: 60px;
+  vertical-align: top;
+}
+
+#info-msg {
+  background: rgba(38, 41, 45, 0.95);
+  border-radius: 4px;
+  color: white;
+  padding: 1em;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 90%;
+  margin: 0;
+  padding: 0;
+  font-size: 1.1em;
+  text-align: center;
+  display: none;
+  z-index: 15;
+  overflow: hidden;
+}
+#info-msg .container {
+  padding: 0.85em;
+}
+#info-msg .container ul{
+  padding: 0;
+  list-style: none;
+}
+
+#info-msg.info-panel {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+}
+#info-msg.info-panel > .container {
+  background: rgba(38, 41, 45, 0.95);
+  margin: 0;
+  position: relative;
+}
+#info-msg.info-panel > .container a {
+  display: inline-block;
+  padding: 1em;
+  background: #ccc;
+  border: 1px solid #ccc;
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 1em;
+  margin-right: 1em;
+}
+
+#main-menu {
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  padding: 1em;
+  background: rgba(38, 41, 45, 0.95);
+  position: fixed;
+  top: 42px;
+  left: -150%;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+#main-menu .divider, #info-msg .divider {
+  border-bottom: 1px solid #aaa;
+}
+#main-menu > ul, #info-msg > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#main-menu .menu-link:link, #main-menu .menu-link:visited, #info-msg .menu-link:link, #info-msg .menu-link:visited {
+  color: white;
+  display: block;
+  text-decoration: none;
+  margin-bottom: 0.4em;
+  padding: 0.6em;
+}
+#main-menu .menu-link:hover, #main-menu .menu-link:active, #info-msg .menu-link:hover, #info-msg .menu-link:active {
+  color: #222;
+  background: #ddd;
+}
+#main-menu.active {
+  left: 0;
+}
+
+#toggle-lang {
+  display: none;
+}
+
+.cf:before,
+.cf:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */
+}
+
+.cf:after {
+  clear: both;
+}
+
+::-webkit-scrollbar {
+  height: 4px;
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+}

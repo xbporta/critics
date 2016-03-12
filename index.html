@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="format-detection" content="telephone=no"/>
+    <title>El preu de l'abundància</title>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link rel="stylesheet" media="screen, projection" href="src/assets/stylesheets/main.css">
+    <script type="text/javascript" src="src/assets/vendor/modernizr.js"></script>
+    <script type="text/javascript" src="src/assets/vendor/jquery.js"></script>
+    <script type="text/javascript" src="src/assets/vendor/jquery.hammer.js"></script>
+    <script type="text/javascript" src="src/assets/vendor/state-machine/state-machine.js"></script>
+    <script type="text/javascript" src="src/assets/vendor/jed.js"></script>
+    <script type="text/javascript" src="src/assets/vendor/iscroll.js"></script>
+    <script type="text/javascript" src="src/assets/js/esf.js"></script>
+  </head>
+  <body>
+    <div id="joc-el-preu">
+      <header>
+        <a href="#" id="toggle-menu">&equiv;</a>
+        <h1>&nbsp;</h1>
+      </header>
+      <section id="elts-grid-one" class="elts-grid">
+        <ul class="elts-list cf"></ul>
+      </section>
+      <section id="elts-grid-two" class="elts-grid">
+        <ul class="elts-list cf"></ul>
+      </section>
+      <section id="mix-zone">
+        <div id="first-ingredient"><span class="label">&nbsp;</span></div>
+        <span class="mix-symbol">+</span>
+        <div id="second-ingredient"><span class="label">&nbsp;</span></div>
+        <span class="mix-symbol">=</span>
+        <div id="mix-result" class="elt"><span class="label">&nbsp;</span></div>
+      </section>
+      <div id="info-msg"><div class="container"></div></div>
+      <aside id="main-menu">
+        <ul>
+          <!---<li class="divider"><a id="toggle-lang" class="menu-link" href="#"></a></li>-->
+          <li class="divider"><a id="help" class="menu-link" href="#"></a></li>
+          <li class="divider"><a id="idioma" class="menu-link" href="#"></a></li>
+          <li class="divider"><a id="reset-level" class="menu-link" href="#"></a></li>
+          <li class="divider"><a id="collab" class="menu-link" href="#"></a></li>
+          <li><a id="more-info" class="menu-link" href="#"></a></li>
+        </ul>
+      </aside>      
+    </div>
+    <script type="text/javascript">
+      esfab.init({"cordova": false});
+    </script>
+  </body>
+</html>

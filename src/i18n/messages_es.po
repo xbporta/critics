@@ -1,0 +1,489 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: El preu de l'abundància\n"
+"POT-Creation-Date: 2015-06-27 02:47+0100\n"
+"PO-Revision-Date: 2015-06-27 02:55+0100\n"
+"Last-Translator: Xavier Bonet <xbporta@gmail.com>\n"
+"Language-Team: ESF <xbporta@gmail.com>\n"
+"Language: Castellà\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_n\n"
+"X-Poedit-Basepath: /var/www/html/critics2/src\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: assets/js\n"
+
+#: assets/js/esf.js:187 assets/js/esf.js:292
+msgid "Ajuda"
+msgstr "Ayuda"
+
+#: assets/js/esf.js:187
+msgid "Missatge complet d'ajuda (HTML)"
+msgstr ""
+"Combina los elementos y descubrirás qué esconde la produción de un móvil."
+"<br>Para seleccionar un elemento, pulsa encima.<br>Para visualizar la "
+"definición del elemento, manténlo pulsado.<br>El nivel finalizará cuando "
+"encuentres todos los elementos concluyentes."
+
+#: assets/js/esf.js:244 assets/js/esf.js:291
+msgid "Reinicia el joc"
+msgstr "Reinicia el juego"
+
+#: assets/js/esf.js:245
+msgid "reset_game_msg"
+msgstr ""
+"¿Estás seguro? Perderás todo el progreso conseguido hasta el momento y "
+"empezarás el juego desde el principio."
+
+#: assets/js/esf.js:245
+msgid "Reinicia"
+msgstr "Reiniciar"
+
+#: assets/js/esf.js:255
+msgid "URL més info"
+msgstr "http://www.elpreudelabundancia.org/"
+
+#: assets/js/esf.js:290
+msgid "Canvi d'idioma"
+msgstr "Cambio de idioma"
+
+#: assets/js/esf.js:294 assets/js/esf.js:867 assets/js/esf.js:881
+#: assets/js/esf.js:888
+msgid "Més info"
+msgstr "Más info"
+
+#: assets/js/esf.js:299
+msgid "Impactes ambientals"
+msgstr "Impactos ambientales"
+
+#: assets/js/esf.js:354
+msgid "Benvingut!"
+msgstr "Bienvenido!"
+
+#: assets/js/esf.js:354
+msgid "msg_start_game"
+msgstr ""
+"¿Alguna vez te has planteado cuántos elementos se requieren para fabricar el "
+"móvil que tienes en las manos? Se necesitan una gran variedad de minerales y "
+"otros materiales, algunos muy escasos, de modo que empresas y gobiernos "
+"hacen muchos esfuerzos para satisfacer la demanda… Combina los elementos y "
+"descubrirás que esconde la producción de un móvil."
+
+#: assets/js/esf.js:426
+msgid "El preu de l'abundància"
+msgstr "CríTICs"
+
+#: assets/js/esf.js:428
+msgid "persona"
+msgstr "Persona"
+
+#: assets/js/esf.js:429
+msgid "politica"
+msgstr "Política"
+
+#: assets/js/esf.js:430
+msgid "economia"
+msgstr "Economía"
+
+#: assets/js/esf.js:431
+msgid "terra"
+msgstr "Tierra"
+
+#: assets/js/esf.js:432
+msgid "aigua"
+msgstr "Agua"
+
+#: assets/js/esf.js:433
+msgid "minerals"
+msgstr "Minerales"
+
+#: assets/js/esf.js:434
+msgid "arbre"
+msgstr "Árbol"
+
+#: assets/js/esf.js:435
+msgid "animal"
+msgstr "Animal"
+
+#: assets/js/esf.js:436
+msgid "comunitat"
+msgstr "Comunidad"
+
+#: assets/js/esf.js:437
+msgid "politic"
+msgstr "Político"
+
+#: assets/js/esf.js:438
+msgid "territori"
+msgstr "Territorio"
+
+#: assets/js/esf.js:439
+msgid "mercat"
+msgstr "Mercado"
+
+#: assets/js/esf.js:440
+msgid "govern"
+msgstr "Gobierno"
+
+#: assets/js/esf.js:441
+msgid "estat"
+msgstr "Estado"
+
+#: assets/js/esf.js:442
+msgid "fronteres"
+msgstr "Fronteras"
+
+#: assets/js/esf.js:443
+msgid "pib"
+msgstr "PIB"
+
+#: assets/js/esf.js:443
+msgid ""
+"Producte Interior Brut. Indicador convencional per mesurar el creixement "
+"ecònomic d'un país. Valoritza monetàriament el productes i serveis generats "
+"en un país, sense tenir en compte la distribució de la riquesa, el benestar "
+"social ni els recursos naturals destruïts per a la producció."
+msgstr ""
+"Producto Interior Bruto. Indicador convencional para medir el crecimiento "
+"económico de un país. Valoriza monetariamente los productos y servicios "
+"generados en un país, sin tener en cuenta la distribución de riqueza, el "
+"bienestar social ni los recursos naturales destruidos para la producción."
+
+#: assets/js/esf.js:444
+msgid "tlc"
+msgstr "TLC"
+
+#: assets/js/esf.js:444
+msgid ""
+"Tractat de Lliure Comerç. Els TLC són acords comercials regionals o "
+"bilaterals que prioritzen els privilegis i guanys dels inversors enfront els "
+"drets del poble. Bàsicament consisteixen en eliminar o reduir els aranzels "
+"per aconseguir la liberització màxima del mercat."
+msgstr ""
+"Tratado de Libre Comercio. Los TLC son acuerdos comerciales regionales o "
+"bilaterales que priorizan los privilegios i ganancias de los inversores "
+"frente los derechos del pueblo. Básicamente consisten en eliminar los "
+"aranceles para conseguir la liberalización máxima del mercado."
+
+#: assets/js/esf.js:445
+msgid "empresa"
+msgstr "Empresa"
+
+#: assets/js/esf.js:446
+msgid "empresa_minera"
+msgstr "Empresa minera"
+
+#: assets/js/esf.js:447
+msgid "miner"
+msgstr "Minero"
+
+#: assets/js/esf.js:448
+msgid "jaciment"
+msgstr "Yacimiento"
+
+#: assets/js/esf.js:449
+msgid "fauna"
+msgstr "Fauna"
+
+#: assets/js/esf.js:450
+msgid "riu"
+msgstr "Río"
+
+#: assets/js/esf.js:451
+msgid "bosc"
+msgstr "Bosque"
+
+#: assets/js/esf.js:452
+msgid "aquifer"
+msgstr "Acuífero"
+
+#: assets/js/esf.js:453
+msgid "interes_empresarial"
+msgstr "Interés empresarial"
+
+#: assets/js/esf.js:454
+msgid "permis_dexplotacio"
+msgstr "Permiso de explotación"
+
+#: assets/js/esf.js:455
+msgid "corrupcio"
+msgstr "Corrupción"
+
+#: assets/js/esf.js:455
+msgid ""
+"La corrupció fa que es donin permissos d'explotació en espais naturals "
+"protegits o en territoris de pobles ancestrals sense prèvia consulta."
+msgstr ""
+"La corrupción provoca que se concedan permisos de explotación en espacios "
+"naturales protegidos o en territorios de pueblos ancestrales sin previa "
+"consulta."
+
+#: assets/js/esf.js:456
+msgid "mina"
+msgstr "Mina"
+
+#: assets/js/esf.js:458
+msgid "deforestacio"
+msgstr "Deforestación"
+
+#: assets/js/esf.js:459
+msgid ""
+"L'activitat minera comporta una important pèrdua de vegetació deguda al "
+"moviment de terres, la pluja àcida i a les micropartícules nocives suspeses "
+"en l’aire degut a les voladures realitzades per al moviment de terres."
+msgstr ""
+"La actividad minera produce una importante pérdida de vegetación debido al "
+"movimiento de tierras, a la lluvia ácida y a las micropartículas nocivas "
+"suspendidas en el aire debido a las voladuras realizadas los movimientos de "
+"tierras."
+
+#: assets/js/esf.js:463
+msgid "sequera"
+msgstr "Sequía"
+
+#: assets/js/esf.js:464
+msgid ""
+"Les empreses mineres extreuen un volum d'aigua incompatible amb l'activitat "
+"agrícola i ramadera, alhora que limiten l'accés a aigua potable de la "
+"població."
+msgstr ""
+"Las empresas mineras extraen un volumen de agua incompatible con la "
+"actividad agrícola y ganadera a la vez que limitan el aceso al agua potable "
+"de la población."
+
+#: assets/js/esf.js:468
+msgid "contaminacio"
+msgstr "Contaminación"
+
+#: assets/js/esf.js:469
+msgid ""
+"Els metalls pesants i altres productes químics altament nocius o cancerígens "
+"(com ara el cianur o els hidrocarburs aromàtics policíclics), provoquen "
+"acidificació dels aqüífers i la contaminació de les conques hídriques."
+msgstr ""
+"Los metales pesados y otros productos químicos altamente nocivos o "
+"cancerígenos (como el cianuro o los hidrocarburos aromáticos policíclicos), "
+"provocan la acidificación de los acuíferos y la contaminación de las cuencas "
+"hídricas."
+
+#: assets/js/esf.js:473
+msgid "desaparicio_despecies"
+msgstr "Desaparición de especies"
+
+#: assets/js/esf.js:474
+msgid ""
+"Per obtenir 1g d'or cal remoure 1 tona de terra i irrigar-la amb cianur. "
+"L'extracció i processament de minerals provoca la desaparició dels hàbitats "
+"que aboquen a les espècies a l'extinció."
+msgstr ""
+"Para obtener 1g de oro se precisa remover 1 tonelada de tierra e irrigarla "
+"con cianuro. La extracción y procesamiento de minerales provoca la "
+"desaparición de los hábitats que empujan a las especies a la extinción."
+
+#: assets/js/esf.js:478
+msgid "enverinament"
+msgstr "Envenenamiento"
+
+#: assets/js/esf.js:479
+msgid ""
+"La presència de metalls pesants en l'aigua per a ús domèstic és habitual en "
+"pobles i ciutats que s'abasteixen de conques amb activitat minera. Aquests "
+"contaminants tenen efectes sobre la salut a mitjà i llarg termini."
+msgstr ""
+"La presencia de metales pesados en el agua para uso doméstico es habitual en "
+"pueblos y ciudades que se abastecen de cuencas con actividad minera. Estos "
+"contaminantes tienen efectos sobre la salud a medio y largo plazo."
+
+#: assets/js/esf.js:483
+msgid "malalties"
+msgstr "Enfermedades"
+
+#: assets/js/esf.js:484
+msgid ""
+"Les comunitats properes a zones d'activitat d'indústries extractives són "
+"altament sensibles a patir problemes de salut deguts a una exposició "
+"permanent a fonts de contaminació i a vessaments accidentals que produeixen "
+"una exposició a nivells de contaminació molt per sobre dels estándards "
+"ambientals. Exemple: vessament de mercuri a Choropampa any 2000."
+msgstr ""
+"Las comunidades próximas a zonas de actividad de industrias extractivas son "
+"altamente sensibles a sufrir problemas de salud debidos a una exposición "
+"constante a fuentes de contaminación y a vertidos accidentales que producen "
+"una exposición a niveles de contaminación muy por encima de los estándares "
+"ambientales. Ejemplo: vertido de mercurio en Choropampa el año 2000."
+
+#: assets/js/esf.js:488
+msgid "perdua_biodiversitat"
+msgstr "Pérdida de biodiversidad"
+
+#: assets/js/esf.js:489
+msgid "impactes_ambientals"
+msgstr "Impactos ambientales"
+
+#: assets/js/esf.js:490
+msgid "agricultura"
+msgstr "Agricultura"
+
+#: assets/js/esf.js:491
+msgid "ramaderia"
+msgstr "Ganadería"
+
+#: assets/js/esf.js:492
+msgid "mitjans_subsistencia"
+msgstr "Medios de subsistencia"
+
+#: assets/js/esf.js:493
+msgid "globalitzacio"
+msgstr "Globalización"
+
+#: assets/js/esf.js:494
+msgid "exercit"
+msgstr "Ejército"
+
+#: assets/js/esf.js:495
+msgid "desplaçaments"
+msgstr "Desplazamientos"
+
+#: assets/js/esf.js:496
+msgid "desarrelament"
+msgstr "Desarraigo"
+
+#: assets/js/esf.js:497
+msgid "transnacional"
+msgstr "Empresa transnacional"
+
+#: assets/js/esf.js:498
+msgid "espoli"
+msgstr "Expolio"
+
+#: assets/js/esf.js:499
+msgid "empobriment"
+msgstr "Empobrecimiento"
+
+#: assets/js/esf.js:500
+msgid "lobby_de_poder"
+msgstr "Lobby de poder"
+
+#: assets/js/esf.js:501
+msgid "desigualtat_economica"
+msgstr "Desigualdad económica"
+
+#: assets/js/esf.js:502
+msgid "precarietat_laboral"
+msgstr "Precariedad laboral"
+
+#: assets/js/esf.js:503
+msgid "protesta_social"
+msgstr "Protesta social"
+
+#: assets/js/esf.js:504
+msgid "criminalitzacio"
+msgstr "Criminalización"
+
+#: assets/js/esf.js:505
+msgid "revolta_social"
+msgstr "Revuelta social"
+
+#: assets/js/esf.js:506
+msgid "conflictes_armats"
+msgstr "Conflictos armados"
+
+#: assets/js/esf.js:507
+msgid "comerç_darmes"
+msgstr "Comercio de armas"
+
+#: assets/js/esf.js:508
+msgid "militaritzacio"
+msgstr "Militarización"
+
+#: assets/js/esf.js:509
+msgid "seguretat_privada"
+msgstr "Seguridad Privada"
+
+#: assets/js/esf.js:510
+msgid "espionatge"
+msgstr "Espionaje"
+
+#: assets/js/esf.js:511
+msgid "violacio_DDHH"
+msgstr "Violación de los Derechos Humanos"
+
+#: assets/js/esf.js:600
+msgid "Ja has jugat aquesta combinació"
+msgstr "Ya has jugado esta combinación"
+
+#: assets/js/esf.js:644
+msgid "OK"
+msgstr "OK"
+
+#: assets/js/esf.js:665
+msgid "Cancel·la"
+msgstr "Cancelar"
+
+#: assets/js/esf.js:795
+msgid "Has desbloquejat"
+msgstr "Has desbloqueado"
+
+#: assets/js/esf.js:865
+msgid "Joc superat"
+msgstr "Juego superado"
+
+#: assets/js/esf.js:866
+msgid "Missatge de final de joc"
+msgstr "Fin del juego"
+
+#: assets/js/esf.js:867
+msgid "URL final de joc"
+msgstr "http://www.elpreudelabundancia.org/?lang=es"
+
+#: assets/js/esf.js:879 assets/js/esf.js:886
+msgid "Nivell superat"
+msgstr "Nivel superado"
+
+#: assets/js/esf.js:880
+msgid "Missatge de primer nivell superat"
+msgstr ""
+"¡¡Felicidades!! Has superado el primer nivel. Ya conoces los impactos "
+"ambientales y de salud que provoca  el proceso de fabricación de aparatos "
+"electrónicos. Pero eso no es todo, debes saber que la huella de las "
+"industrias extractivas va mucho más allá. En el nivel 2 descubrirás los "
+"impactos sociales, políticos y económicos asociados a su actividad."
+
+#: assets/js/esf.js:881
+msgid "URL 1r nivell superat"
+msgstr "http://www.elpreudelabundancia.org/?lang=es"
+
+#: assets/js/esf.js:887
+msgid "Missatge de segon nivell superat"
+msgstr ""
+"¡¡Felicidades!! Has superado el segundo nivel. Ya conoces los impactos "
+"sociales, políticos y económicos que provoca  el proceso de fabricación de "
+"aparatos electrónicos. Pero eso no es todo, debes saber que la huella de las "
+"industrias extractivas va mucho más allá."
+
+#: assets/js/esf.js:888
+msgid "URL 2n nivell superat"
+msgstr "http://www.elpreudelabundancia.org/?lang=es"
+
+#: assets/js/esf.js:---menu
+msgid "menu_collab"
+msgstr "Colaboradores"
+
+#: assets/js/esf.js:---menu
+msgid "menu_idioma"
+msgstr "Idioma"
+
+#: assets/js/esf.js:---finestra collaboradors
+msgid "titol_collab"
+msgstr "Con la colaboración de"
+
+#: assets/js/esf.js:---finestra collaboradors
+msgid "url_ajbcn"
+msgstr "http://www.barcelona.cat/es/"
+
+#: assets/js/esf.js:---finestra collaboradors
+msgid "url_accd"
+msgstr "http://cooperaciocatalana.gencat.cat/"

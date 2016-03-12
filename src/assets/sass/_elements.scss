@@ -1,0 +1,68 @@
+@import "compass/css3/background-size";
+
+@mixin dark-text {
+  color: #444;
+}
+
+@mixin elt-icon($class, $bg:"") {
+  //.no-svg #logo { background-image: url(fallback.png); }
+  #joc-el-preu .elt.elt-#{$class} {
+    background: url(#{$svg-icon-dir}/#{$class}.svg) center center no-repeat;
+    @include background-size(cover);
+    @if $bg != "" {
+      background-color: $bg;
+    }    
+  }
+  
+  .no-svg #joc-el-preu .elt.elt-#{$class} {
+    background: url(#{$png-icon-dir}/#{$class}.png) center center no-repeat;
+    @include background-size(cover);
+    @if $bg != "" {
+      background-color: $bg;
+    }    
+  }
+}
+
+$svg-icon-dir: '../img/elements/svgo';
+$png-icon-dir: '../img/elements/png';
+
+@include elt-icon(persona, #2b8a79);
+@include elt-icon(politica, #694f7a);
+@include elt-icon(economia, #e62364);
+@include elt-icon(terra, #5ab89e);
+@include elt-icon(aigua, #5cafb2);
+@include elt-icon(minerals, #93b746);
+@include elt-icon(arbre, #5ab89e);
+@include elt-icon(animal, #f096ac);
+@include elt-icon(comunitat, #2b8a79);
+@include elt-icon(politic, #694f7a);
+@include elt-icon(territori, #694f7a);
+@include elt-icon(mercat, #e62364);
+@include elt-icon(govern, #694f7a);
+@include elt-icon(estat, #694f7a);
+@include elt-icon(fronteres, #694f7a);
+@include elt-icon(pib, #694f7a);
+@include elt-icon(tlc, #694f7a);
+@include elt-icon(empresa, #e62364);
+@include elt-icon(empresa_minera, #e62364);
+@include elt-icon(miner, #93b746);
+@include elt-icon(jaciment, #93b746);
+@include elt-icon(fauna, #f096ac);
+@include elt-icon(riu, #5cafb2);
+@include elt-icon(bosc, #5ab89e);
+@include elt-icon(aquifer, #5cafb2);
+@include elt-icon(interes_empresarial, #e62364);
+@include elt-icon(permis_dexplotacio, #e62364);
+@include elt-icon(corrupcio, #694f7a);
+@include elt-icon(mina, #93b746);
+@include elt-icon(deforestacio, #5ab89e);
+@include elt-icon(sequera, #5cafb2);
+@include elt-icon(contaminacio, #d02243);
+@include elt-icon(desaparicio_despecies, #d02243);
+@include elt-icon(enverinament, #d02243);
+@include elt-icon(malalties, #d02243);
+@include elt-icon(perdua_biodiversitat, #d02243);
+@include elt-icon(impactes_ambientals, purple);
+@include elt-icon(agricultura, #e62364);
+@include elt-icon(ramaderia, #e62364);
+@include elt-icon(mitjans_subsistencia, #e62364);
